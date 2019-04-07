@@ -78,7 +78,7 @@ a {
 }
 
 /* *************** Background *************** */
-.background {
+.landing-area > .background {
   position: absolute;
   top: -5px;
   right: -5px;
@@ -108,27 +108,27 @@ a {
   color: white;
 }
 
-.content__image {
+.landing-area .content__image {
   height: 150px;
   width: 150px;
 
   overflow: hidden;
 }
 
-.content__image--is-rounded {
+.landing-area .content__image--is-rounded {
   border-radius: 50%;
 }
 
-.content__image > img {
+.landing-area .content__image > img {
   height: 150px;
   width: auto;
 }
 
-.content__description {
+.landing-area .content__description {
   text-align: center;
 }
 
-.content__description > a {
+.landing-area .content__description > a {
   font-weight: bold;
 }
 
@@ -141,10 +141,10 @@ a {
   color: white;
 }
 
-.footer > p {
+.landing-area .footer p {
   margin: 0;
 }
 
-.footer > p > a {
+.landing-area .footer a {
   font-weight: bold;
 }
