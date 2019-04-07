@@ -5,10 +5,11 @@
 [![GitHub issues][github-issues]][github-issueslink]
 [![GitHub stars][github-stars]][github-starslink]
 [![GitHub forks][github-forks]][github-forkslink]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/430a86ad-0317-4dc2-a7e6-a92e24459fdb/deploy-status)](https://app.netlify.com/sites/basic-landing-page/deploys)
 
 Create a simple landing page in minutes. You just need to clone this repository and edit the `index.html` file.
 
-<!-- ![](header.png) -->
+![Demo](screenshot.png)
 
 ## Release History
 
