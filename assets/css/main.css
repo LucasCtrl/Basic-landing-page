@@ -1,4 +1,4 @@
-/*
+/*!
 * Basic landing page 2.0.0
 * Copyright 2019, LucasAlt
 * By: LucasAlt <lucasalt@protonmail.com>
@@ -13,6 +13,7 @@
 * - Base
 * - Landing area
 *   - Background
+*   - Content
 *
 ********************************************* */
 
@@ -54,8 +55,13 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+a {
   font-family: "Lato", sans-serif;
+}
+
+a {
+  color: inherit;
 }
 
 /* Landing area
@@ -68,7 +74,7 @@ h6 {
   overflow: hidden;
 }
 
-/* *************** Bqckground *************** */
+/* *************** Background *************** */
 .background {
   position: absolute;
   top: -5px;
@@ -79,5 +85,46 @@ h6 {
   background-image: url("https://source.unsplash.com/random/1280x720");
   background-size: cover;
   background-repeat: no-repeat;
-  filter: blur(3px) brightness(70%);
+  filter: blur(3px) brightness(60%);
+}
+
+/* *************** Content *************** */
+.landing-area > .content {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto;
+
+  height: 100%;
+  width: 90%;
+
+  color: white;
+}
+
+.content__image {
+  height: 150px;
+  width: 150px;
+
+  overflow: hidden;
+}
+
+.content__image--is-rounded {
+  border-radius: 50%;
+}
+
+.content__image > img {
+  height: 150px;
+  width: auto;
+}
+
+.content__description {
+  text-align: center;
+}
+
+.content__description > a {
+  font-weight: bold;
 }
