@@ -15,11 +15,11 @@ Create a simple landing page in minutes. You just need to clone this repository 
 - 2.0.0
   - Better with a fresh new workspace
 - 1.2.0
-  - ADD: Add a profil picture
+  - Add: Zone for a profile photo
 - 1.1.0
   - A colourful world
-  - ADD: Add button
-  - ADD: Add gulp for minification and more
+  - ADD: Button
+  - ADD: Using Gulp to minimize files
 - 1.0.0
   - First commit
 
@@ -29,11 +29,11 @@ Create a simple landing page in minutes. You just need to clone this repository 
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[https://github.com/LucasCtrl/basic-landing-page/blob/master/LICENSE](https://github.com/LucasCtrl/basic-landing-page/blob/master/LICENSE)
+[https://github.com/LucasCtrl/basic-landing-page/blob/master/LICENSE](https://github.com/LucasCtrl/Basic-landing-page/blob/master/LICENSE)
 
 ## Contributing
 
-1. Fork it (<https://github.com/LucasCtrl/basic-landing-page/fork>)
+1. Fork it (<https://github.com/LucasCtrl/Basic-landing-page/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -41,9 +41,9 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 <!-- Markdown link & img dfn's -->
 
-[github-issues]: https://img.shields.io/github/issues/LucasCtrl/basic-landing-page.svg?style=flat-square
-[github-issueslink]: https://github.com/LucasCtrl/basic-landing-page/issues
-[github-stars]: https://img.shields.io/github/stars/LucasCtrl/basic-landing-page.svg?style=flat-square
-[github-starslink]: https://github.com/LucasCtrl/basic-landing-page/stargazers
-[github-forks]: https://img.shields.io/github/forks/LucasCtrl/basic-landing-page.svg?style=flat-square
-[github-forkslink]: https://github.com/LucasCtrl/basic-landing-page/network
+[github-issues]: https://img.shields.io/github/issues/LucasCtrl/Basic-landing-page.svg?style=flat-square
+[github-issueslink]: https://github.com/LucasCtrl/Basic-landing-page/issues
+[github-stars]: https://img.shields.io/github/stars/LucasCtrl/Basic-landing-page.svg?style=flat-square
+[github-starslink]: https://github.com/LucasCtrl/Basic-landing-page/stargazers
+[github-forks]: https://img.shields.io/github/forks/LucasCtrl/Basic-landing-page.svg?style=flat-square
+[github-forkslink]: https://github.com/LucasCtrl/Basic-landing-page/network
